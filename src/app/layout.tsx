@@ -17,7 +17,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Mood Coffee & Food",
+  title: "Mood Cafe & Food",
   description:
     "Çerkezköy'ün en prestijli cafe deneyimi. Premium kahveler ve eşsiz bir atmosfer.",
 };

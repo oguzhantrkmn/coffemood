@@ -62,7 +62,7 @@ export default function About() {
             transition={{ duration: 1, delay: 0.4 }}
           >
             <p className="text-sm md:text-base text-[#FAF6F0]/80 font-light leading-loose" style={{ fontFamily: "var(--font-sans)" }}>
-              Çerkezköy&apos;ün kalbinde, modern ve rafine tasarımıyla Mood Coffee & Food, kahve tutkunları için eşsiz bir deneyim sunuyor. Özenle seçilmiş yüksek kaliteli kahve çekirdekleri, uzman baristalarımızın ellerinde adeta bir sanat eserine dönüşüyor.
+              Çerkezköy&apos;ün kalbinde, modern ve rafine tasarımıyla Mood Cafe & Food, kahve tutkunları için eşsiz bir deneyim sunuyor. Özenle seçilmiş yüksek kaliteli kahve çekirdekleri, uzman baristalarımızın ellerinde adeta bir sanat eserine dönüşüyor.
             </p>
             <p className="text-sm md:text-base text-[#FAF6F0]/80 font-light leading-loose" style={{ fontFamily: "var(--font-sans)" }}>
               Mekanımız, hem dingin bir çalışma ortamı hem de sevdiklerinizle keyifli vakit geçirebileceğiniz lüks ve zarif bir atmosfer vadediyor. Instagram&apos;a değer anlar burada başlar.

@@ -98,7 +98,7 @@ export default function Footer() {
 
         {/* Telif Hakkı ve Detaylar */}
         <div className="flex flex-col md:flex-row w-full justify-center md:justify-between items-center gap-6 text-[10px] tracking-[0.2em] text-[#FAF6F0]/30 font-light uppercase text-center" style={{ fontFamily: "var(--font-sans)" }}>
-          <span className="md:w-1/3 md:text-left">© 2026 MOOD COFFEE</span>
+          <span className="md:w-1/3 md:text-left">© 2026 MOOD CAFE & FOOD</span>
           <span className="md:w-1/3 text-[#C5A059]/60">TÜM HAKLARI SAKLIDIR</span>
           <span className="md:w-1/3 md:text-right">Premium Experience in Çerkezköy</span>
         </div>
