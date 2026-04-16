@@ -8,32 +8,32 @@ const galleryImages = [
   {
     src: "/images/image3.png",
     alt: "Ambiyans",
-    span: "col-span-12 md:col-span-8 row-span-2",
+    span: "col-span-12 md:col-span-4 row-span-1",
   },
   {
     src: "/images/12.png",
     alt: "Özel Tasarım",
-    span: "col-span-6 md:col-span-4 row-span-1",
+    span: "col-span-12 md:col-span-4 row-span-1",
   },
   {
     src: "/images/image4.png",
     alt: "Lezzet",
-    span: "col-span-6 md:col-span-4 row-span-1",
+    span: "col-span-12 md:col-span-4 row-span-1",
   },
   {
     src: "/images/13.png",
     alt: "Köşe",
-    span: "col-span-12 md:col-span-4 row-span-2",
+    span: "col-span-12 md:col-span-4 row-span-1",
   },
   {
     src: "/images/image8.png",
     alt: "Atmosfer",
-    span: "col-span-6 md:col-span-4 row-span-1",
+    span: "col-span-12 md:col-span-4 row-span-1",
   },
   {
     src: "/images/14.png",
     alt: "Detaylar",
-    span: "col-span-6 md:col-span-4 row-span-1",
+    span: "col-span-12 md:col-span-4 row-span-1",
   },
 ];
 
@@ -73,8 +73,8 @@ export default function Gallery() {
             </p>
           </motion.div>
 
-          {/* Editorial Asimetrik Grid */}
-          <div className="grid grid-cols-12 auto-rows-[300px] md:auto-rows-[450px] gap-6 md:gap-10 w-full">
+          {/* Uniform Grid */}
+          <div className="grid grid-cols-12 auto-rows-[300px] md:auto-rows-[350px] gap-6 md:gap-10 w-full">
             {galleryImages.map((img, i) => (
               <motion.div
                 key={i}

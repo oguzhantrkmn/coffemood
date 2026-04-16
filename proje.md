@@ -25,7 +25,7 @@
 
 * Logo / Başlık Fontu:
 
-  * Görseldeki **"MOOD CAFE & FOOD" fontuna birebir yakın font**
+  * Görseldeki **"MOOD Coffee & FOOD" fontuna birebir yakın font**
   * İnce, modern, serif veya yüksek kontrastlı display font
 
 * Alternatif öneriler:
