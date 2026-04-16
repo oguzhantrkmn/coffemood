@@ -1,26 +1,106 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-primary: #0A1C14;     /* Çok koyu orman yeşili */
+  --color-primary-light: #153023; /* Biraz daha açık yeşil */
+  --color-accent: #C5A059;      /* Altın/Bronz */
+  --color-accent-light: #E2C785;/* Açık Altın */
+  --color-cream: #FAF6F0;       /* Lüks Kremsi Beyaz */
+  --color-cream-dark: #EAE3D6;  /* Daha Koyu Krem */
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: #0A1C14;
+  --foreground: #FAF6F0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(197, 160, 89, 0.4);
+  color: #FAF6F0;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0A1C14;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C5A059;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E2C785;
+}
+
+/* Lüks Noise Efekti */
+.grain-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+}
+
+/* Gelişmiş Cam Efektleri */
+.glass-elegant {
+  background: rgba(26, 48, 35, 0.4);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(197, 160, 89, 0.1);
+}
+
+.text-gold {
+  color: #C5A059;
+}
+
+.bg-gold {
+  background-color: #C5A059;
+}
+
+/* Resim Hover için Lüks Yakınlaştırma */
+.img-zoom-hover {
+  overflow: hidden;
+}
+.img-zoom-hover img {
+  transition: transform 1.2s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.img-zoom-hover:hover img {
+  transform: scale(1.05);
+}
+
+/* İnce ve Şık Ayırıcı Çizgiler */
+.elegant-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(197, 160, 89, 0.3), transparent);
 }
