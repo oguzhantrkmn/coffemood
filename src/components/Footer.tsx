@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 
 const socialLinks = [
-  { 
-    name: "Instagram", 
-    href: "https://instagram.com/cafemood",
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/mood.coffee.food/",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
@@ -15,18 +15,18 @@ const socialLinks = [
       </svg>
     )
   },
-  { 
-    name: "Facebook", 
-    href: "https://facebook.com/cafemood",
+  {
+    name: "Facebook",
+    href: "",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
       </svg>
     )
   },
-  { 
-    name: "Twitter", 
-    href: "https://twitter.com/cafemood",
+  {
+    name: "Twitter",
+    href: "",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
@@ -39,7 +39,7 @@ export default function Footer() {
   return (
     <footer className="relative py-20 px-8 md:px-16 bg-[#0A1C14] border-t border-[#FAF6F0]/5 overflow-hidden flex flex-col items-center">
       <div className="w-full max-w-[1400px] mx-auto flex flex-col items-center">
-        
+
         {/* En Üst - Dev Logo */}
         <motion.div
           className="mb-16 flex flex-col items-center"
@@ -100,9 +100,9 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row w-full justify-center md:justify-between items-center gap-6 text-[10px] tracking-[0.2em] text-[#FAF6F0]/30 font-light uppercase text-center" style={{ fontFamily: "var(--font-sans)" }}>
           <span className="md:w-1/3 md:text-left">© 2026 MOOD Coffee & FOOD</span>
           <span className="md:w-1/3 text-[#C5A059]/60">TÜM HAKLARI SAKLIDIR</span>
-          <span className="md:w-1/3 md:text-right">Premium Experience in Çerkezköy</span>
+          <span className="md:w-1/3 md:text-right">Premium Experience ın Çerkezköy</span>
         </div>
-        
+
       </div>
     </footer>
   );

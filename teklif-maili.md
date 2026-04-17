@@ -12,52 +12,50 @@
 
 Merhaba [İşletme Sahibinin Adı] Bey / Hanım,
 
-Umarım yoğun tempo içinde iyi bir gün geçiriyorsunuzdur. Ben [Adınız Soyadınız], web tasarım ve yazılım geliştirme alanında çalışıyorum.
+Umarım yoğun tempo içinde iyi bir gün geçiriyorsunuzdur. Ben [Adınız Soyadınız], dijital marka danışmanlığı ve web tasarımı yapıyorum.
 
 Çerkezköy'de faaliyet gösteren **Cafe Mood**'u yakından takip ediyorum. Mekanın sahip olduğu modern, estetik ve premium atmosferin; dijital dünyada da aynı etkiyi yaratacak, markanızın prestijini bir üst seviyeye taşıyacak özel bir web sitesini fazlasıyla hak ettiğini düşünüyorum.
 
-Bu vizyondan yola çıkarak, size **hiçbir ön koşul veya ücret talebi olmadan**, tamamen Cafe Mood'a özel, ultra-modern bir web sitesi tasarlayıp geliştirdim. Amacım öncelikle sizi ziyaret eden müşterilerinizin dijital dünyada da aynı kaliteyi hissetmelerini sağlayacak bir örnek sunmaktır.
+Bu vizyondan yola çıkarak, size **hiçbir ön koşul veya ücret talebi olmadan**, tamamen Cafe Mood'a özel, şık bir web sitesi tasarladım. Amacım öncelikle sizi ziyaret eden müşterilerinizin dijital dünyada da aynı kaliteyi hissetmelerini sağlayacak bir örnek sunmaktır.
 
 ### 🌐 Demo Linki
 Hazırladığım siteyi aşağıdaki linkten inceleyebilirsiniz:
 
-**[BURAYA CANLI DEMO LİNKİNİZİ EKLEYİN]**
 
-### ✨ Site Özellikleri
-Sıradan hazır şablonlar (WordPress, Wix vb.) yerine, dünyanın önde gelen markalarının tercih ettiği **Next.js** teknolojisiyle sıfırdan kodlanmıştır. Öne çıkan özellikler:
 
-- **Premium & Lüks Tasarım:** Michelin yıldızlı restoranların web sitelerinden ilham alan, minimalist ve editorial (dergi tarzı) bir kullanıcı deneyimi.
-- **Akıcı Animasyonlar:** Her bölümde göz alıcı kaydırma (scroll) ve geçiş animasyonları.
-- **Tam Responsive:** Mobil, tablet ve masaüstü cihazlarda kusursuz görünüm.
-- **SEO & Hız Optimizasyonu:** Google aramalarında üst sıralarda çıkmak için gerekli tüm altyapı hazır.
-- **Gerçek Fotoğraflar ve Canlı Menü:** Mekanınızın fotoğrafları ve güncel menünüz entegre edildi.
-- **Google Haritalar Entegrasyonu:** Müşterileriniz tek tıkla yol tarifi alabiliyor.
-- **Özel İmleç & Paralaks Efektler:** Sıradan bir sitede asla göremeyeceğiniz premium detaylar.
+### ✨ Sitenin Markanıza Katkıları
+Sıradan şablonlar yerine markanıza özel olarak hazırlanan bu sitenin öne çıkan avantajları:
 
-### 💼 Sunulan Hizmetler ve Yatırım Bedeli
+- Mekanınızın kalitesini ve atmosferini dijitale taşıyan şık bir tasarım.
+- Müşterilerinizin cep telefonlarından menünüzü rahatça inceleyebilmesi ve size kolayca ulaşabilmesi.
+- Ürünlerinizin ve mekanınızın en iştah açıcı fotoğraflarla sergilenmesi.
+- Müşterilerinizin tek tıkla yol tarifi alıp mekanınıza yönlendirilmesi.
 
-Sizin için sunduğum hizmet paketleri aşağıdaki gibidir:
+### 💼 Yatırım Planı ve Kapsam
 
-| Hizmet | Açıklama | Bedel |
-|--------|----------|-------|
-| **Tek Seferlik Kurulum** | Tam tasarımlı sitenin teslimi, alan adı (domain) kurulumu, sunucuya (hosting) yüklenmesi, SSL güvenlik sertifikası ve ilk içerik/görsel aktarımı. | **25.000 TL** |
-| **Yıllık Bakım Paketi** | Domain yenileme, hızlı hosting hizmeti, menü/fiyat güncellemeleri, teknik destek ve 7/24 kesintisiz çalışma garantisi. | **6.000 TL / yıl** |
+Sitenizin her zaman çok hızlı açılması ve kesintisiz hizmet vermesi için profesyonel ve global bir altyapı (Netlify vb.) kullanılmaktadır. 
 
-> **Not:** İlk yıl bakım paketini **ücretsiz** olarak sunuyorum. Yani sadece **25.000 TL**'lik tek seferlik bir yatırımla sitenize bir yıl boyunca tüm teknik hizmetler dahil olacaktır.
+Projeyi ve sunduğumuz premium hizmetleri detaylandırmak gerekirse iki temel sürecimiz bulunuyor:
+
+1. **Kurulum ve Özel Tasarım:** Sitenin yayına alınması, kurumsal e-posta, alan adı kurulumu ve tüm içeriklerin (menü, fotoğraflar vb.) entegrasyonu.
+2. **Aylık Altyapı ve Bakım Paketi:** Yüksek hızlı global sunucu maliyetleri (trafik/sistem kredileri), güvenlik lisansları ve standart güncellemeleri (aylık mevcut ürünlerin fiyat/görsel değişimleri) kapsar.
+
+*> **Önemli Not:** Aylık bakım paketi sadece mevcut yapı üzerindeki menü/fiyat güncellemelerini içerir. İşletmeniz büyüdükçe ihtiyaç duyabileceğiniz tamamen yeni sayfaların eklenmesi, rezervasyon modülleri veya farklı büyük eklentiler **yeni bir proje** olarak ayrıca değerlendirilir. Böylece sadece ihtiyacınız olan hizmete ücret ödersiniz.*
+
+Size özel en uygun fiyatlandırmayı ve altyapı seçeneklerini sunabilmem için projenin detaylarını kısaca görüşmemiz çok daha sağlıklı olacaktır.
 
 ### 🤝 Neden Bu Yatırım Değer?
 
-Bugün müşterilerin %80'inden fazlası bir mekana gitmeden önce internet üzerinden araştırma yapıyor. Instagram kadar etkili bir web siteniz olması:
-
+Bugün müşterilerin %80'inden fazlası bir mekana gitmeden önce internet üzerinden araştırma yapıyor. Sadece sosyal medyada değil, arama motorlarında da prestijli bir web siteniz olması:
 - Markanızın algısını güçlendirir,
 - Yeni müşteri kitlelerine ulaşmanızı sağlar,
 - Rakiplerinizin önüne geçmenizi kolaylaştırır.
 
 ### 📞 Görüşme Talebi
 
-Size bu projeyi yüz yüze veya telefon üzerinden detaylı bir şekilde sunmaktan memnuniyet duyarım. Uygun olduğunuz bir zamanı bana iletmeniz durumunda sizi ziyaret edebilir veya dilediğiniz platformda (WhatsApp, Zoom, Telefon) bir görüşme ayarlayabiliriz.
+Size bu projeyi yüz yüze veya telefon üzerinden detaylı bir şekilde sunmaktan memnuniyet duyarım. Uygun olduğunuz bir zamanı bana iletmeniz durumunda sizi ziyaret edebilir veya dilediğiniz platformda bir görüşme ayarlayabiliriz.
 
-Site şu anda sizin onayınızı beklemektedir. Beğenmediğiniz veya değiştirmek istediğiniz kısımlar olursa, tüm revizyonları ücretsiz olarak yapabilirim.
+Site şu anda sizin onayınızı beklemektedir. Beğenmediğiniz veya değiştirmek istediğiniz kısımlar olursa, revizyonları seve seve yapabilirim.
 
 Yanıtınızı sabırsızlıkla bekliyorum.
 
@@ -76,16 +74,14 @@ Yanıtınızı sabırsızlıkla bekliyorum.
 
 ## 💡 Mail Göndermeden Önce Kontrol Listesi
 
-- [ ] Canlı demo linkini (Vercel/Netlify vb.) yayına aldınız mı?
+- [ ] Canlı demo linkini yayına aldınız mı?
 - [ ] Köşeli parantez `[...]` içindeki yerleri kendi bilgilerinizle doldurdunuz mu?
 - [ ] Mail adresini doğru yazdığınızdan emin misiniz?
-- [ ] Site üzerinde son bir test yaptınız mı?
-- [ ] Mobilden de siteyi kontrol ettiniz mi?
+- [ ] Site üzerinde mobilden son bir kontrol yaptınız mı?
 
 ## 📌 Ekstra İpuçları
 
 1. **Zamanlama:** Maili hafta içi günlerde sabah 10:00 - 11:00 veya öğleden sonra 14:00 - 15:00 arasında göndermek açılma oranını artırır.
 2. **Takip:** Yanıt alamazsanız 3-4 gün sonra kısa bir hatırlatma maili atabilir veya direkt mekanı ziyaret edip yüz yüze görüşebilirsiniz.
-3. **WhatsApp Seçeneği:** Eğer numarasına ulaşabiliyorsanız, aynı metni biraz kısaltarak WhatsApp üzerinden de göndermek genellikle daha hızlı sonuç verir.
-4. **Kişiselleştirme:** İşletme sahibinin adını öğrenip, maildeki "[İşletme Sahibinin Adı]" kısmını mutlaka gerçek ismiyle değiştirin. Bu, dönüş oranınızı ciddi şekilde artırır.
-5. **Pazarlık Payı:** Karşı taraftan fiyat itirazı gelirse, **20.000 TL**'ye kadar inebilirsiniz. Ama 20.000 TL'nin altına **asla** düşmeyin — proje kalitesi bunu hak ediyor.
+3. **Fiyatlandırma Stratejisi:** Yüksek bütçeli (örneğin yurt dışı standartlarında 5.000$ - 10.000$ bandındaki) kaliteli işler satarken ilk mailde **fiyat yazmamak** her zaman daha profesyoneldir. Karşı tarafın "bu çok pahalı" deyip maili kapatmasını engeller. Amaç önce bir yüz yüze veya telefon görüşmesi koparmaktır. Değeri ve kaliteyi anladıklarında sunduğunuz bütçe onlara mantıklı gelecektir.
+4. **Sınırları Çizmek (Kapsam):** Görüşme esnasında aylık bakım paketinin "sınırsız hizmet" anlamına gelmediğini mutlaka vurgulayın. "Yeni bir sayfa tasarımı veya yeni bir modül (örneğin rezervasyon sistemi) eklenirse ekstra faturalandırılır, ancak var olan menüde fiyat veya 3-5 ürün görseli değiştirmek aylık pakete dahildir" demelisiniz.
